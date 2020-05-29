@@ -1,0 +1,15 @@
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\bin\Debug\CROSSRaytracer.exe.config
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\bin\Debug\CROSSRaytracer.exe
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\bin\Debug\CROSSRaytracer.pdb
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\CROSSRaytracer.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\MainWindow.g.cs
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\App.g.cs
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\CROSSRaytracer_MarkupCompile.cache
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\CROSSRaytracer_MarkupCompile.lref
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\MainWindow.baml
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\CROSSRaytracer.g.resources
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\CROSSRaytracer.Properties.Resources.resources
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\CROSSRaytracer.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\CROSSRaytracer.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\CROSSRaytracer.exe
+D:\Projects\Visual Studio\Projects\WPF\CROSSRaytracer\CROSSRaytracer\obj\Debug\CROSSRaytracer.pdb

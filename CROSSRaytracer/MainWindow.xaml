@@ -1,0 +1,18 @@
+﻿<Window x:Class="CROSSRaytracer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CROSSRaytracer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600" ResizeMode="NoResize">
+    <Grid>
+        <Canvas x:Name="canvasView" Height="371" VerticalAlignment="Top" HorizontalAlignment="Left" Width="594" Background="Black"/>
+        <StackPanel HorizontalAlignment="Left" Height="185" Margin="473,10,0,0" VerticalAlignment="Top" Width="100">
+            <Button x:Name="renderSphere" Content="Render sphere" VerticalAlignment="Top" HorizontalAlignment="Left" Width="100" Margin="0,10" Click="RenderSphere" Height="30"/>
+            <Button x:Name="renderTriangle" Content="Render triangle" VerticalAlignment="Top" HorizontalAlignment="Left" Width="100" Margin="0,10" Click="RenderTriangle" Height="30"/>
+            <Button x:Name="renderPlane" Content="Render plane" VerticalAlignment="Top" HorizontalAlignment="Left" Width="100" Margin="0,10" Click="RenderPlane" Height="30"/>
+        </StackPanel>
+        <ProgressBar x:Name="loadingBar" IsIndeterminate="True" Width="594" Height="10" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>
